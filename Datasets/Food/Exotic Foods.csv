@@ -1,0 +1,798 @@
+Age in years,Gender,Race,Home location,Cockroach,Sushi,Rocky Mountain oyster,Spam,Cow urine,Jalapeño,Alligator meat,Paper,Hawaiian pizza,Pig's trotters,Durian,Monkey brains,Frog legs,Caviar,Fugu,Balut,Lutefisk,Century egg,Salo,Locusts
+14,Male,White,North America/Central America,False,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+40,Male,White,North America/Central America,False,True,True,True,False,True,True,True,True,True,True,False,True,True,False,True,True,False,True,False
+23,Female,Asian,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+17,Male,Asian,North America/Central America,False,True,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False
+16,Female,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+17,Male,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+16,Male,Asian,Asia,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,Male,Black or African American,,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+15,Female,Asian,Asia,False,False,False,False,False,False,False,False,False,False,,False,False,False,False,False,False,False,False,False
+40,Female,White,North America/Central America,False,True,True,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+15,Male,Asian,North America/Central America,False,True,,True,False,True,False,False,False,False,,False,False,False,False,False,False,,False,False
+16,Female,Asian,North America/Central America,False,True,False,False,False,True,False,True,False,True,True,False,True,True,False,False,False,True,False,False
+17,Female,Asian,North America/Central America,True,True,False,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+18,Female,White,North America/Central America,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,Female,Asian,North America/Central America,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+17,Female,Two or More Races,North America/Central America,False,True,True,True,False,True,True,False,False,True,True,False,False,True,True,True,False,False,True,False
+17,Male,,North America/Central America,False,True,False,True,False,True,False,True,True,True,True,False,True,True,True,False,False,True,False,False
+9,Male,White,North America/Central America,False,False,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+13,Male,Asian,North America/Central America,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+14,Male,Asian,Europe,False,True,True,True,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+15,Female,,North America/Central America,True,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+50,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+13,Male,White,North America/Central America,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,Male,White,North America/Central America,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+14,Other,Two or More Races,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+29,Male,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+23,Female,White,Europe,False,True,False,False,False,True,False,,True,False,False,False,False,False,False,False,False,False,False,False
+27,Male,White,Europe,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+19,Male,White,South America,False,True,False,False,False,True,False,True,False,True,False,False,False,True,True,False,False,False,False,False
+20,Male,White,Asia,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,Male,White,North America/Central America,False,True,False,False,False,True,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+23,Male,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+16,Female,Asian,North America/Central America,False,True,True,True,False,True,False,True,True,False,True,False,True,False,False,False,False,True,False,False
+19,,,,False,False,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+31,Female,White,Europe,False,True,False,False,False,True,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+18,Female,White,North America/Central America,False,True,False,False,False,,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+28,Male,,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+33,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True
+40,Male,,North America/Central America,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+25,Female,White,North America/Central America,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+30,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,True,False,False,False
+18,Male,White,North America/Central America,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,False
+17,Female,Asian,North America/Central America,False,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+29,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,True
+23,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+29,Female,Asian,Australia,False,True,False,True,False,True,False,False,True,True,True,False,False,True,False,True,False,False,False,False
+23,Female,White,North America/Central America,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+22,Male,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,False
+19,Female,White,South America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+17,Female,White,Europe,False,False,False,,False,True,False,True,True,False,True,False,,False,False,False,False,False,False,False
+18,Female,White,Europe,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+30,Female,White,North America/Central America,True,True,False,True,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+30,Male,White,North America/Central America,False,True,False,True,False,True,False,True,False,,False,False,False,False,False,False,False,,False,False
+25,Male,White,Europe,False,True,False,True,False,True,True,False,True,False,False,False,True,True,False,False,True,False,False,False
+26,Female,White,Europe,False,True,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False,True
+21,Female,Two or More Races,North America/Central America,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+17,Female,White,North America/Central America,True,True,True,False,False,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+35,Female,White,North America/Central America,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+66,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,False,False,False,False,,False,False
+19,Male,White,North America/Central America,False,True,False,False,False,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False
+44,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False
+31,Other,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+31,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+22,Female,White,North America/Central America,False,True,False,False,False,True,True,False,True,True,True,False,False,True,False,False,False,False,False,False
+20,Female,,North America/Central America,False,True,True,True,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+41,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+41,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+15,Male,White,North America/Central America,False,True,True,False,False,True,False,True,True,False,False,False,False,False,False,False,True,False,False,False
+25,Female,White,North America/Central America,False,True,False,True,False,True,True,True,False,False,False,False,True,True,False,False,False,False,False,True
+22,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+36,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+30,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Male,White,Europe,False,True,False,False,False,False,True,True,True,False,False,False,True,False,False,False,False,False,False,False
+21,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,False,,,False,False,False,False
+44,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,True,True,False,False,False,False,False,False
+27,Female,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,True,False
+18,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False
+14,Male,White,North America/Central America,True,True,True,False,False,True,True,True,True,False,True,False,True,False,False,False,False,False,False,True
+21,Male,Two or More Races,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,True,False,False
+22,Female,White,Europe,False,True,False,True,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+28,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Male,White,Europe,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+23,Other,Two or More Races,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,False,True,False,False,False,False,False,False
+22,Male,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,True,False,True,True,False,False,True,True,True,True
+28,Female,,,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+25,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,True,True,False,False,False,False,True,False
+21,Female,White,Europe,False,True,False,False,False,True,False,False,False,False,False,False,False,,False,False,False,False,False,False
+25,Male,Asian,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False,False
+34,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+16,Male,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+45,Male,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+40,Female,White,North America/Central America,True,True,False,True,False,True,False,True,True,False,True,False,True,False,False,False,False,False,True,False
+21,Female,Two or More Races,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+25,Male,Two or More Races,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,False,True,False,False,False,False,True,False
+18,Male,Two or More Races,South America,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,False,False,False,False
+29,Female,White,North America/Central America,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+24,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+18,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+17,Male,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,True
+44,Male,White,North America/Central America,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+40,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False
+25,Female,White,Australia,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+20,Female,White,,False,True,False,True,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+25,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+20,Male,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Female,White,Australia,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Male,White,Europe,True,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Female,White,North America/Central America,False,False,False,False,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+28,Female,White,North America/Central America,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,False,False
+19,Male,White,North America/Central America,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+29,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+28,Female,White,North America/Central America,False,True,False,False,False,True,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+28,Female,White,Europe,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+22,Male,White,Europe,True,True,False,True,False,True,False,False,True,True,True,True,True,True,True,False,True,False,False,True
+22,Male,White,Europe,True,True,False,True,False,True,False,False,True,True,True,True,True,True,True,False,True,False,False,True
+27,Male,White,North America/Central America,False,True,False,True,False,True,True,True,False,True,True,True,True,True,False,True,False,False,False,False
+35,Male,White,North America/Central America,False,True,False,False,False,True,True,True,False,False,True,False,True,False,False,False,False,False,False,False
+40,Male,,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+18,Female,Two or More Races,South America,False,False,False,False,False,True,True,True,True,True,False,False,False,True,False,False,False,False,False,False
+35,Male,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+23,Male,Black or African American,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+23,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+59,Female,White,North America/Central America,False,True,False,True,False,True,True,True,False,False,False,False,True,True,False,False,False,False,False,False
+41,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+20,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False
+35,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+31,Female,White,North America/Central America,False,True,False,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+39,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,False,False,False,False,False
+17,Other,White,North America/Central America,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+25,Female,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+16,Female,,South America,False,True,False,False,False,False,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+21,Female,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+13,Other,White,North America/Central America,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+16,Female,,South America,False,True,False,False,False,False,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+23,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+31,Female,White,North America/Central America,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+29,Female,White,South America,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+25,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+31,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+23,Female,White,North America/Central America,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+19,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+43,Male,,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+23,Female,Asian,North America/Central America,False,True,False,True,False,True,False,True,True,True,True,False,True,False,False,False,False,False,False,False
+31,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+43,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+26,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,False,True,False,False,False,False,False,False
+23,Male,Asian,Australia,False,True,,True,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+20,Male,Asian,North America/Central America,True,True,False,True,False,True,True,False,True,True,True,False,True,True,False,True,False,True,False,False
+28,Male,White,North America/Central America,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+34,Female,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False
+24,Female,White,North America/Central America,False,False,True,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+33,Male,Two or More Races,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,False,False,True,True,True
+53,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+26,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+19,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,True,False,False,False,True,False,False,False,False,False,False
+54,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,True,False,False,True,True,False,False,True,False,False,False
+24,Male,White,North America/Central America,False,True,True,True,False,True,True,False,True,True,True,False,True,True,True,True,True,True,False,False
+21,Female,White,,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,False,True,False,False,False
+15,Male,Asian,North America/Central America,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+23,Female,Two or More Races,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,Other,White,Australia,False,True,False,False,False,True,False,True,True,False,False,False,True,True,False,False,False,False,False,False
+47,Female,White,North America/Central America,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+29,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+15,Female,Asian,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+35,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+27,Female,Asian,North America/Central America,False,True,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,False,False
+27,Male,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+18,Female,Asian,Asia,False,True,False,False,False,True,False,True,False,False,True,False,False,False,False,False,True,False,False,False
+21,Male,Asian,North America/Central America,False,True,False,True,False,True,False,True,True,True,True,False,True,True,False,False,False,True,False,False
+27,Female,White,North America/Central America,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+38,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+27,Female,White,Australia,False,True,False,True,False,True,True,True,True,True,True,False,True,True,True,False,False,False,False,False
+24,Male,Two or More Races,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+32,Female,White,Australia,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,True,True,False,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False
+29,Female,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False
+28,Male,Asian,North America/Central America,False,True,False,True,False,True,False,False,True,True,True,False,True,True,False,False,False,True,False,False
+31,Female,Two or More Races,North America/Central America,False,True,False,False,False,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False
+29,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,True,False,True,False,False,False,False
+24,Male,Asian,Asia,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+28,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True
+21,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+46,Female,White,North America/Central America,False,True,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+26,Female,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,True,False,False,False,False,True,False,False,False
+18,Female,Asian,North America/Central America,False,True,False,True,False,True,False,False,True,True,True,False,False,True,False,False,False,True,False,False
+42,Male,White,North America/Central America,False,True,True,True,False,True,False,False,True,True,True,False,True,True,False,True,False,True,True,False
+20,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+22,Male,White,Europe,True,True,False,True,False,True,False,False,True,True,True,True,True,True,True,False,True,False,False,True
+20,Female,White,North America/Central America,False,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+26,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+29,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+30,Male,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+20,Female,American Indian or Alaska Native,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,False
+21,,,,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+33,Male,White,North America/Central America,False,True,True,True,False,True,True,True,True,False,False,False,True,True,False,True,False,False,False,False
+42,Male,White,North America/Central America,False,True,True,True,False,True,True,True,True,True,True,False,True,True,False,False,False,False,True,False
+30,Female,Two or More Races,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+41,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,True,True,False,False,True,False,False,False
+16,Male,White,South America,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+30,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,True,True,False,False,False,True,False,False
+28,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+30,Male,White,North America/Central America,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+22,,Asian,,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,False
+33,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,True,True,False,False,False,False,False,False
+21,Female,White,,False,True,True,True,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+17,Male,White,North America/Central America,False,False,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Male,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+24,Male,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+13,Male,Two or More Races,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+30,Female,White,North America/Central America,False,True,True,True,False,True,True,False,True,False,False,False,True,True,True,False,False,False,False,False
+26,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+32,Female,Two or More Races,North America/Central America,False,True,False,False,False,True,True,True,True,True,True,False,True,True,False,False,False,False,False,False
+26,,White,North America/Central America,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,False,False,False,False
+23,Female,Asian,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+26,Female,White,North America/Central America,False,False,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+18,Other,White,North America/Central America,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,Male,White,North America/Central America,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+41,Female,White,North America/Central America,False,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,False
+25,Male,White,North America/Central America,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+30,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+31,Female,White,North America/Central America,False,True,True,True,False,True,False,True,True,False,True,False,True,True,False,False,False,True,False,False
+38,Female,White,Australia,False,True,False,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Male,Asian,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+19,Male,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+21,Male,Asian,North America/Central America,False,True,True,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+16,Male,Asian,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+17,Other,White,North America/Central America,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+31,Female,White,North America/Central America,False,True,False,False,False,True,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+19,Male,White,North America/Central America,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+40,,,,False,False,True,True,False,True,True,True,True,False,False,False,False,False,False,False,True,False,False,False
+22,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+31,Female,White,North America/Central America,False,True,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+21,Female,White,South America,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+43,Female,White,North America/Central America,True,True,False,False,False,True,True,True,True,False,True,False,True,True,False,False,True,False,False,False
+15,Male,White,Australia,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+36,Male,White,North America/Central America,False,True,False,True,False,True,True,False,True,True,False,False,True,True,False,False,False,False,False,False
+53,Female,White,North America/Central America,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False
+19,Female,White,North America/Central America,False,False,False,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+41,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,True,True,False,False,False,False,False,False
+17,,,,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False,False
+28,Female,,North America/Central America,False,True,False,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+20,Male,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+38,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,True,True,False,False,False,False,False,False
+24,Female,Two or More Races,South America,False,True,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+22,Female,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+49,Female,White,North America/Central America,False,False,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+21,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+26,Male,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+23,Male,White,North America/Central America,False,True,True,True,False,True,True,True,True,False,True,False,True,False,False,False,True,False,False,False
+27,Female,Two or More Races,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+47,Female,White,North America/Central America,False,True,True,True,False,True,True,False,True,False,True,False,True,True,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,Female,White,North America/Central America,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+38,Male,White,Africa,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+20,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False
+25,Male,White,North America/Central America,True,True,False,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+30,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,True,False,False,True,False,False,False,False,False,False,False
+28,Male,White,North America/Central America,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,True,False,True,False,True,,False,False,False,False,False,False,False,False,False,False,False
+26,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,True,True,False,True,True,False,False,False,False,False,False
+16,Male,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False
+24,Female,White,North America/Central America,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+25,Male,Black or African American,North America/Central America,True,True,False,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+34,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False
+38,Male,White,Europe,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+23,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+23,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False
+19,Female,Black or African American,North America/Central America,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+19,Female,,Pacific Islands,False,True,True,True,False,True,False,True,True,True,False,False,True,True,True,False,False,True,True,False
+21,Female,Two or More Races,North America/Central America,False,True,True,True,False,True,True,True,True,False,False,False,True,True,False,True,False,False,False,False
+23,Female,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+22,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+23,Female,,North America/Central America,False,True,True,True,False,True,True,True,True,False,True,False,True,False,False,False,False,False,False,False
+23,Male,White,North America/Central America,False,True,False,True,False,True,False,False,True,True,False,False,False,True,False,False,True,False,False,True
+34,Male,White,North America/Central America,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+28,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,False,False,False,True,False,False,False
+29,Male,White,Australia,False,True,False,True,False,True,True,True,True,True,True,False,False,True,False,False,False,False,False,False
+26,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+33,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,True,True,False,False,False,False,False,False
+33,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,True,True,False,False,False,False,False,False
+29,Male,White,Europe,False,True,False,False,False,True,True,False,True,False,False,False,False,True,False,False,False,False,True,False
+27,Male,White,,False,True,False,True,False,True,False,True,True,False,False,False,True,True,False,False,False,False,False,False
+23,Male,Two or More Races,Asia,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+18,Female,Black or African American,North America/Central America,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+26,Male,Black or African American,Europe,False,True,False,False,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+21,Female,Asian,Asia,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+29,Female,White,North America/Central America,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+20,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,,False,False
+20,Female,White,North America/Central America,False,False,False,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+22,Male,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+28,Male,White,Europe,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+21,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+17,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True
+22,Male,Two or More Races,South America,False,True,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+34,Male,White,North America/Central America,False,True,False,True,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,Female,Asian,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,,False,True,False,False
+19,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,True,True,False,True,True,False,False,False,False,False,False
+40,Female,,Australia,False,True,False,True,False,True,False,True,True,False,False,False,False,True,True,False,False,False,False,False
+24,Female,White,Australia,False,True,False,True,False,False,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+18,Male,White,Europe,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+22,Female,Asian,,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+27,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+32,Male,White,Europe,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,True,False
+16,Male,Two or More Races,Europe,False,True,True,False,False,True,False,True,True,False,False,False,True,False,False,False,False,False,True,False
+31,Female,Asian,Asia,False,True,False,True,False,True,False,False,True,True,True,False,True,True,True,False,False,True,False,False
+30,Female,Asian,North America/Central America,True,True,False,True,False,True,False,False,True,True,True,False,False,True,False,False,False,True,False,False
+28,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+26,Male,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,True,False,False,False
+14,Other,White,Europe,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+25,,,Europe,,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+21,Male,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,True,False,False,False
+15,Female,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+46,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False
+23,Male,Two or More Races,North America/Central America,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+29,Female,White,Europe,False,True,False,False,False,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+24,Female,Asian,North America/Central America,False,True,False,True,False,True,False,True,True,True,True,False,False,True,False,False,False,False,False,True
+18,,Asian,Australia,False,True,False,True,False,True,True,True,True,False,True,False,False,False,True,False,False,True,False,False
+18,,Asian,Australia,False,True,False,True,False,True,True,True,True,False,True,False,False,False,True,False,False,True,False,False
+32,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+24,Male,White,North America/Central America,False,True,True,True,False,True,True,True,True,False,True,False,True,True,False,False,False,False,False,False
+29,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False
+20,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+25,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,True,False,False,True,False,False,True,False,False,False
+54,Male,White,Europe,False,True,False,True,False,True,False,True,True,True,False,False,False,True,False,False,False,False,False,True
+36,Female,White,Europe,False,True,False,True,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False
+24,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+18,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+32,Male,White,Australia,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+24,Male,Black or African American,North America/Central America,False,True,False,True,False,True,False,True,True,True,False,False,False,False,False,False,False,False,False,False
+18,Female,White,Europe,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+18,Male,Two or More Races,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+26,Other,White,Europe,False,True,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+25,Female,White,Australia,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+32,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,,False,True,False,False,False,False,False,False
+30,Female,White,Africa,False,True,False,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Female,White,Europe,False,False,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Male,White,Europe,False,True,False,False,False,True,False,True,True,True,False,False,True,True,False,False,False,False,True,False
+33,Female,White,,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+23,Male,White,Europe,False,True,False,False,False,True,True,True,True,False,False,False,True,True,False,False,False,False,True,False
+21,Female,White,North America/Central America,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+18,Male,White,Australia,True,False,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False
+34,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+37,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,True,False
+28,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+26,Female,White,Europe,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,True,False
+25,Male,White,Europe,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+25,Male,White,Europe,False,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+23,Female,Two or More Races,North America/Central America,False,True,False,True,False,True,False,True,True,True,False,False,False,False,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True
+17,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,True,False,False,False
+26,Male,White,Asia,False,True,False,True,False,True,False,False,True,True,True,False,True,True,False,True,False,False,False,False
+24,Female,White,Europe,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,,False,False,False,False,False
+40,Male,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+20,Female,White,Asia,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,False,False,True,False
+16,Male,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+25,Male,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,True,False
+19,Female,,North America/Central America,False,True,False,True,False,True,False,True,True,True,True,False,True,False,False,False,False,False,False,False
+17,Female,White,Europe,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+15,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Male,Asian,Australia,False,True,False,False,False,True,False,True,True,True,True,False,True,True,False,True,False,True,False,False
+22,Female,White,,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+16,Male,White,Europe,False,False,False,True,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+28,Female,Black or African American,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+16,Male,White,South America,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+47,Female,White,Europe,False,True,False,True,False,True,True,True,True,True,True,False,True,True,False,False,False,True,True,True
+28,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,True,True,False,False,False,False,,False
+18,Female,Asian,North America/Central America,False,True,,False,False,True,True,True,True,True,False,False,True,True,False,False,False,True,False,False
+33,Male,White,Europe,False,True,False,False,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+20,Male,White,Europe,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+32,Female,Asian,Europe,False,True,False,False,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False
+19,Male,White,Europe,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+23,Female,Black or African American,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+23,Other,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,True,True,False,False
+22,Male,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+25,Male,White,Europe,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+19,Other,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+22,Female,White,Europe,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+40,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+24,Female,White,Europe,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False,False,False,False,True,False
+20,Female,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,False
+22,Male,White,,False,True,False,True,False,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False
+21,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+17,Female,White,Europe,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+21,Female,White,North America/Central America,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+23,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,True,False,False,True,True,False,False,False,False,False,False
+42,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,True,False,False,True,False,False,True,False,False,False
+21,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,True,True,False,False,False,False,True,False,False,False,True
+29,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,Male,White,Europe,True,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+26,Female,,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+24,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+28,Female,White,Australia,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+24,Male,White,,False,True,False,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+33,Female,White,Australia,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+36,Female,White,Australia,False,True,False,True,False,False,False,False,True,False,False,False,False,True,False,,False,False,False,False
+33,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+20,Male,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,True,False,False,False
+18,Female,White,Asia,False,False,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+18,Male,Two or More Races,Europe,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+17,Female,White,Asia,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+27,Male,White,North America/Central America,False,True,False,False,False,True,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+19,Female,Asian,North America/Central America,False,True,False,False,False,True,False,False,True,True,True,False,True,False,False,False,True,True,False,False
+18,Female,Two or More Races,Europe,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+25,,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,False,True,True,False,True,,False,False
+25,Female,White,Europe,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+18,Other,White,Europe,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,True,False
+21,Female,Asian,,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,Male,White,Europe,False,True,False,False,False,False,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+24,Female,Asian,Asia,False,True,False,True,False,True,False,True,True,False,True,False,True,True,False,True,False,False,False,False
+22,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+17,Male,White,Europe,False,False,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+23,Female,,Asia,False,True,False,False,False,True,False,,True,False,False,False,False,True,False,False,False,False,True,False
+14,Female,White,North America/Central America,False,True,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+18,Male,White,Australia,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+33,Female,White,North America/Central America,False,True,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+17,Male,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+22,Female,White,Europe,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+27,Female,White,Europe,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,Male,Asian,North America/Central America,False,True,False,True,False,True,False,True,True,,False,False,False,False,False,False,False,False,False,False
+35,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Male,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+37,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+44,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,True
+22,Female,White,North America/Central America,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+22,Female,White,North America/Central America,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+33,Other,Two or More Races,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,False,False,False,False,False
+26,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+35,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Male,White,Europe,False,False,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+15,Male,Asian,Asia,False,True,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,True
+16,Female,White,North America/Central America,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+24,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,True,False,False,False,False,False
+23,Male,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+35,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,True,True,False,False,False,False,False,False
+29,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,True,True,False,False,False,False,False,False
+19,Female,White,Europe,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True
+20,Male,White,Europe,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,True,False
+30,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+30,Female,White,North America/Central America,False,True,False,False,False,True,True,False,True,False,False,False,True,True,False,False,False,False,False,False
+39,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,True,True,False,False,True,False,False,False
+24,Other,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+16,Male,White,Europe,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+16,Male,White,South America,False,True,False,False,False,False,True,True,False,False,False,False,False,False,,False,False,False,False,False
+29,Female,White,,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False
+30,Other,White,Europe,False,True,False,True,False,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,Male,Asian,Europe,False,True,False,False,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+30,Female,White,,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,Female,Two or More Races,Europe,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+40,Male,White,North America/Central America,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+22,Female,White,Europe,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+24,Male,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+17,Female,White,Europe,True,True,False,True,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,True
+30,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+37,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+15,Other,White,North America/Central America,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+22,Male,White,Europe,True,True,False,True,False,True,False,False,True,True,True,True,True,True,True,False,True,False,False,True
+22,Male,White,North America/Central America,False,False,False,False,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+20,Female,Asian,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+33,Male,,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False
+33,Male,,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False
+18,Female,White,North America/Central America,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+22,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,True,True
+31,Female,White,North America/Central America,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+30,Male,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+18,Other,White,North America/Central America,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Male,White,Europe,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+19,Male,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+25,Male,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+17,Male,Asian,Europe,False,True,False,True,False,True,False,False,True,False,True,False,False,False,False,False,False,True,False,False
+24,Female,White,Europe,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+18,Male,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+28,Male,White,Europe,False,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+18,Female,White,North America/Central America,False,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+29,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,False,False,False,False,False,False,True
+15,Female,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+29,Female,White,Europe,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+21,Male,White,Europe,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+15,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+16,Female,White,,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+19,Male,Two or More Races,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,True
+29,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+27,Male,,,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False,False,False,False,False,False
+38,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,True,False,False,True,False,False,False,False,False,False
+26,Female,White,North America/Central America,False,True,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False,False,False
+27,Female,Black or African American,North America/Central America,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,Male,,Europe,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+23,Female,White,South America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+35,Male,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,,False,False,False,False,False,False,False,False,False
+16,Female,White,North America/Central America,False,True,True,False,False,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False
+26,Male,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+27,Male,Native Hawaiian or Other Pacific Islander,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+27,Male,Native Hawaiian or Other Pacific Islander,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+33,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+50,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,True,False,False,False,True,False,False,False
+26,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,False,False,False,False,False,False,True
+22,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+34,Female,White,Europe,False,True,False,False,False,True,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+35,Male,Asian,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,True,False,True,False,False,False,False
+34,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+22,Female,Asian,Asia,False,True,False,True,False,True,False,False,True,True,True,False,False,True,False,True,False,True,False,False
+23,Male,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+29,Male,White,Australia,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+21,Male,White,North America/Central America,,True,True,True,False,True,,True,True,,,,False,True,False,,,False,,
+29,Male,White,North America/Central America,False,True,True,True,False,True,True,False,True,True,False,False,True,True,False,False,False,False,False,False
+16,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+23,Female,White,Europe,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+14,Male,White,North America/Central America,False,True,True,False,False,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False
+22,Male,White,North America/Central America,False,True,True,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Female,White,Europe,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False,False,False,False,True,False
+25,Female,Two or More Races,Pacific Islands,False,True,True,True,False,True,True,True,True,False,True,False,False,True,False,False,False,False,False,True
+23,Female,White,North America/Central America,False,True,True,True,False,True,True,False,True,False,True,False,True,True,False,True,False,False,False,False
+17,Male,White,North America/Central America,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+32,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,True,True,False,False,False,False,False,False
+19,Male,White,Europe,False,True,False,True,False,True,True,False,True,False,True,False,True,True,False,False,False,False,False,False
+53,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,False,True,False,False,True,False,False,False
+38,Female,Asian,Australia,False,True,False,True,False,True,False,True,True,False,True,False,True,True,False,False,False,True,False,False
+30,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+16,Male,White,North America/Central America,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,Male,White,North America/Central America,False,True,False,False,False,True,True,True,False,False,False,False,True,True,False,False,False,False,False,False
+21,Female,White,North America/Central America,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+23,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,True,False
+22,Male,White,Europe,True,True,False,True,False,True,False,False,True,True,True,True,True,True,True,False,True,False,False,True
+14,Male,Asian,Asia,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False,True,False,False,False,False
+22,Male,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+30,Male,White,Europe,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+22,Male,White,Europe,False,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+19,Female,Two or More Races,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,Male,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Female,Black or African American,North America/Central America,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+21,Male,Asian,Asia,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,True
+21,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,True,False,False,False
+20,Male,White,Europe,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+21,,,,False,True,True,True,False,True,True,False,True,True,True,False,True,False,False,False,False,False,False,False
+14,Male,White,North America/Central America,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+14,Male,White,North America/Central America,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+28,Male,Asian,Asia,False,True,False,False,False,False,False,True,True,True,True,False,True,False,False,False,False,True,False,False
+14,Other,White,North America/Central America,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,Male,White,Australia,False,True,False,True,False,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False
+17,Female,Black or African American,Australia,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+25,Male,White,Europe,False,True,False,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False,True,False
+26,Male,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+35,Female,White,Australia,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+25,Male,,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+25,Male,Two or More Races,North America/Central America,False,True,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False,True,False,False
+20,Female,White,Europe,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False
+30,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,True,True,False,False,False,False,False,True
+39,Male,White,Europe,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+21,Female,Asian,North America/Central America,False,True,False,True,False,True,False,True,True,True,True,False,True,True,False,False,False,True,False,False
+14,,,,,,False,,False,,,,,,,,,,False,,False,False,,
+15,Female,White,,False,True,False,False,False,True,False,False,True,False,False,False,True,True,False,False,False,False,False,False
+47,Female,,,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+14,Other,White,North America/Central America,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+29,Male,Two or More Races,South America,False,True,False,True,False,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False
+16,Female,,Australia,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+28,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+26,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+24,,,,False,True,False,True,False,True,False,True,True,True,True,False,False,True,False,True,False,True,False,False
+35,Male,White,North America/Central America,False,True,False,False,,True,True,True,True,False,False,False,True,True,True,False,False,,False,False
+24,Male,,Australia,False,True,False,True,False,True,False,True,True,True,True,False,True,True,False,True,False,True,False,True
+31,Male,,North America/Central America,False,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+42,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False,False
+51,Male,White,North America/Central America,False,False,False,True,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+25,Female,Asian,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,False
+41,Female,Two or More Races,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+24,Male,Two or More Races,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+32,Female,White,Europe,False,True,False,True,False,True,False,True,True,True,True,False,True,True,False,False,False,False,False,False
+46,Male,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,True,True,False,False,False,False,False,False
+59,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Female,Asian,Europe,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+36,Female,White,North America/Central America,False,True,False,False,False,True,True,False,True,False,False,False,True,True,False,False,False,False,False,False
+31,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+16,Female,Asian,North America/Central America,False,True,False,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+32,,,,False,False,True,False,False,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False
+17,Male,White,North America/Central America,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+17,Female,White,Asia,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+17,Female,Asian,North America/Central America,False,True,False,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+16,Male,White,North America/Central America,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+26,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+29,Male,White,Europe,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,True,False
+27,Female,Two or More Races,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+34,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+44,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+22,Female,Asian,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+17,Female,White,North America/Central America,False,True,False,True,False,True,True,True,False,False,False,False,True,True,False,False,False,False,False,False
+21,Other,White,North America/Central America,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+17,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+26,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,True,False,False,False
+24,Female,Asian,North America/Central America,False,True,False,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+19,Male,Asian,North America/Central America,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+25,Female,White,Europe,False,True,False,True,False,True,True,False,True,False,False,False,False,True,False,False,False,False,False,True
+18,Male,White,North America/Central America,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+23,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+26,Male,White,North America/Central America,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+35,Female,White,Europe,False,True,False,True,False,False,False,,True,False,False,False,False,False,False,False,False,False,False,False
+20,Female,Asian,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False
+19,Female,White,North America/Central America,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+29,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,True,False,False,True,True,False,False,False,False,False,False
+21,Male,White,,False,True,False,True,False,True,True,False,True,False,True,False,False,True,False,False,False,False,False,False
+24,Female,White,North America/Central America,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+19,Other,Asian,North America/Central America,False,True,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+19,Other,Asian,North America/Central America,False,True,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+19,Other,Asian,North America/Central America,False,True,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+17,Male,Asian,Europe,False,True,True,True,False,True,True,True,True,False,True,False,False,True,False,False,False,False,False,False
+15,Male,White,North America/Central America,False,True,True,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+25,Male,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,False,True,False,False,False,True,False,False
+55,Male,White,North America/Central America,False,True,False,True,False,True,True,True,False,False,False,False,True,True,,,False,False,,False
+39,Female,White,Australia,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+46,Female,,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,True,True,False,False,False
+24,Male,White,Europe,False,True,False,,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+26,Male,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,True,True,False,False,False,False,False,False
+21,Female,White,Europe,False,True,False,False,False,True,False,True,True,True,False,False,False,True,False,False,False,False,True,False
+20,Female,White,Europe,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,Male,White,North America/Central America,False,True,True,False,False,True,False,True,True,False,False,False,True,False,False,,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,True,False,False,False,False,False,True,False,False,False,False
+32,Male,White,Europe,False,True,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+24,Female,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,True,True,False,False,False,False,False,True
+20,Male,White,South America,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+21,Female,,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+35,Female,White,Australia,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+29,Female,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+24,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,True,False,False,False,True,False,False,False,False,False,False
+29,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,True,True,False,False,True,False,False,False
+22,Female,White,Europe,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+19,Male,White,Europe,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False
+65,Female,White,North America/Central America,False,False,False,True,False,True,False,False,False,False,,False,False,False,False,False,False,False,False,False
+13,Male,Asian,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,True,True,False,False,False,True,True,False
+31,Female,White,Europe,True,True,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+23,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,True,True,False,False,False,False,False,False
+16,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+22,Female,White,North America/Central America,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False
+22,Female,White,North America/Central America,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False
+29,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+16,Female,Asian,Europe,False,True,False,False,False,True,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+29,Female,Two or More Races,North America/Central America,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,,False,False,False,False
+19,Female,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,True,False,False,False
+34,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+31,Male,White,Europe,False,True,False,True,False,True,True,True,True,True,True,False,False,True,False,False,False,False,False,False
+26,Male,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False
+15,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+33,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,True,True,False,False,False,False,False,False
+18,Female,White,North America/Central America,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+17,Female,Black or African American,North America/Central America,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+30,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+16,Male,Asian,North America/Central America,False,True,False,False,False,True,False,True,True,True,True,False,False,True,False,False,False,True,False,False
+22,Male,Asian,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,True,False
+24,Female,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,True
+24,Male,White,Europe,False,True,False,True,False,True,False,True,True,True,False,False,True,True,False,False,True,False,False,False
+37,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+48,Female,White,North America/Central America,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+40,Female,White,Europe,False,True,False,True,False,True,False,True,True,True,False,False,False,True,False,False,True,False,False,False
+44,Female,White,North America/Central America,False,True,False,True,False,True,True,True,False,False,True,False,False,True,False,False,True,True,False,False
+20,,,,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,True,False,False,False,False
+20,Female,Asian,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+15,Male,White,North America/Central America,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+43,Male,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+26,Male,Black or African American,Europe,False,True,False,False,False,True,False,True,True,True,False,False,False,False,False,False,False,False,False,False
+42,Female,,North America/Central America,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+20,Female,White,North America/Central America,False,True,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+32,Male,White,South America,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,Male,Asian,North America/Central America,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+37,Female,White,North America/Central America,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+25,Female,White,North America/Central America,False,True,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+16,Male,White,South America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Male,White,North America/Central America,False,True,True,True,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True
+20,,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+34,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+22,Female,Two or More Races,Australia,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Male,,Europe,False,True,False,False,False,True,True,False,False,False,False,False,True,True,False,False,False,False,True,False
+49,Female,White,North America/Central America,False,False,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Female,White,Australia,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+30,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+21,Male,Two or More Races,North America/Central America,False,True,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+23,Male,White,Europe,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+23,Other,Two or More Races,North America/Central America,False,True,False,True,False,True,True,True,True,False,True,False,False,True,False,False,False,False,False,False
+23,Male,White,North America/Central America,False,True,True,True,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False
+42,Female,White,North America/Central America,False,True,False,False,False,True,False,True,False,True,True,False,False,True,False,False,False,False,False,False
+27,Male,White,North America/Central America,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+23,Male,White,North America/Central America,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+23,Female,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+19,Other,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+32,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+20,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Female,Asian,North America/Central America,False,True,False,True,False,True,True,False,True,False,True,False,False,False,False,True,False,False,False,False
+35,Male,White,North America/Central America,False,True,False,False,False,True,True,True,False,False,True,False,True,False,False,False,False,False,False,False
+52,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,True,True,False,False,False,False,False,False
+30,Female,White,North America/Central America,False,False,False,True,False,True,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+17,Female,Asian,North America/Central America,False,True,True,True,False,True,False,True,True,False,True,False,False,True,False,True,False,True,True,False
+24,Other,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+28,Male,White,Europe,False,True,False,False,False,False,False,False,False,False,False,,False,True,False,False,False,False,False,False
+19,Male,,North America/Central America,False,False,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Male,,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+27,Female,White,North America/Central America,False,True,False,True,False,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False
+29,Female,White,North America/Central America,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,,True,False,False,False
+25,Female,,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+30,Male,White,North America/Central America,False,True,False,True,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False
+21,Male,Two or More Races,Australia,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+38,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+52,Female,White,North America/Central America,,True,,True,,,,,True,,,,True,True,,,,,,
+19,Female,White,Europe,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,,False,False,False
+32,Female,White,Europe,False,True,False,False,False,True,False,True,True,True,False,False,False,True,False,False,False,False,False,False
+28,Female,White,,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+16,Male,White,North America/Central America,False,True,False,True,False,True,False,False,False,True,False,False,True,True,False,False,False,False,False,False
+26,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+19,Male,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+22,Female,,Europe,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+23,Other,,,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False,,False,False,False,False
+32,Other,White,Europe,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False,False,False,False,False,False
+25,Male,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+21,Male,White,Europe,False,True,True,False,False,True,False,True,False,True,False,False,True,True,False,False,False,False,False,False
+69,Male,White,North America/Central America,False,True,True,True,False,True,False,False,True,False,False,False,True,True,False,False,False,False,False,False
+17,Female,Asian,Europe,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+17,Female,Asian,Europe,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Female,White,North America/Central America,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+16,Female,White,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,True,False,False,True,False,False,False
+13,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,Female,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,False,True,False,False,True,False,False,False
+25,Female,Asian,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,False,False,True,False,False
+25,Female,Asian,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False,False,False,True,False,False
+21,Female,White,North America/Central America,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+19,Male,White,Europe,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+26,Male,White,Australia,False,True,False,False,False,True,False,False,True,False,True,False,False,False,,False,False,False,False,False
+23,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,True,False
+32,Male,,Europe,False,True,False,False,False,True,True,True,False,False,False,False,False,True,False,False,False,False,True,True
+20,Female,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+35,Male,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+27,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False,False,True,False,False,False
+19,,,Europe,False,True,False,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+18,Male,White,,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,True,False,False,False,True,True,False,True,False,True,False,False,False,False,False,False,False
+14,,White,Europe,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+18,Male,White,Europe,False,True,False,False,False,True,False,True,True,True,False,False,True,True,False,False,False,False,True,False
+38,Female,White,Europe,False,True,False,True,False,True,False,True,True,False,True,False,True,True,False,False,False,False,False,False
+24,Other,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+28,Female,Two or More Races,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+17,Male,White,North America/Central America,False,True,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+17,Female,Asian,Europe,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Male,White,North America/Central America,False,True,False,True,False,True,True,True,False,False,True,False,True,True,False,False,False,False,True,False
+37,Female,Two or More Races,Australia,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+18,Male,Two or More Races,North America/Central America,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+17,Other,Two or More Races,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+43,Male,White,Africa,False,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+32,Female,White,North America/Central America,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+24,Other,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+39,Male,White,Europe,False,True,False,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,Male,Two or More Races,Europe,False,True,False,False,False,True,False,False,True,False,True,False,True,True,False,False,False,False,False,False
+38,Female,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False
+15,Male,White,Europe,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Female,White,Europe,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True
+21,Male,White,Australia,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,Other,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+20,Male,White,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+40,Male,White,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,True,True,False,False,True,False,False,False
+20,,,North America/Central America,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,True,False,False
+38,Female,Asian,Europe,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+76,Male,White,North America/Central America,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+23,Female,White,North America/Central America,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+31,Male,White,Europe,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+23,Male,White,Europe,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+31,Male,White,North America/Central America,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+19,Female,,North America/Central America,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+26,Male,White,Europe,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False,False,False,False,False,False
+25,Female,Asian,Asia,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,,False,False,False,False
+31,Female,Asian,Europe,False,True,False,False,False,True,False,False,True,True,False,False,True,True,False,False,False,True,False,False
+31,Female,White,Europe,False,True,False,False,False,,False,True,True,True,False,False,True,True,False,False,False,False,False,True
+24,Female,White,Europe,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+28,Female,White,Europe,,True,False,False,False,True,False,,True,False,False,False,False,True,False,False,,False,False,True
+28,,Two or More Races,North America/Central America,False,True,False,True,False,True,False,False,True,False,False,False,True,True,False,False,False,False,False,False
+26,Female,White,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+31,Female,Two or More Races,North America/Central America,False,True,False,True,False,True,False,False,True,False,True,False,False,False,False,False,False,True,False,False
+34,Female,White,North America/Central America,False,True,False,True,False,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False
+26,Male,,,False,True,False,False,True,True,False,False,True,False,False,True,False,False,False,False,True,True,False,False
+48,Male,White,Europe,False,True,True,False,False,True,False,False,True,True,True,False,True,False,False,False,False,False,False,False
+15,Male,White,North America/Central America,False,True,False,False,False,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False
