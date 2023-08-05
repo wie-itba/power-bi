@@ -4,7 +4,7 @@ Este repositorio contiene los archivos y recursos para el curso de Power BI, div
 
 ## Temario
 
-### [Clase I:](https://github.com/wie-itba/power-bi/blob/main/Clase%20I/Clase%20I.pdf)
+### [Clase I:](https://github.com/wie-itba/power-bi/blob/master/Clase%20I/Clase%20I.pdf)
 
 - Instalando Power BI
 - Preguntas Introductorias
@@ -22,7 +22,7 @@ Este repositorio contiene los archivos y recursos para el curso de Power BI, div
 - Highlights
 - 5° Visualización: KPI personalizado
 
-### [Clase II:](https://github.com/wie-itba/power-bi/blob/main/Clase%20II/Clase%20II.pdf)
+### [Clase II:](https://github.com/wie-itba/power-bi/blob/master/Clase%20II/Clase%20II.pdf)
 
 - Relaciones entre tablas
 - Data Cleansing
