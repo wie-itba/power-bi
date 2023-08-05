@@ -46,9 +46,9 @@ Este repositorio contiene los archivos y recursos para el curso de Power BI, div
 
 ## Vivos en Youtube de clases anteriores
 
-### [Clase I (actualmente modificada)](https://www.youtube.com/watch?v=E5_OozgPquo)
+### [Clase I (actualmente modificada)](https://www.youtube.com/watch?v=8qQYEedYkP0)
 
-### [Clase II](https://www.youtube.com/watch?v=QbVQR2ArTpk)
+### [Clase II](https://www.youtube.com/watch?v=qVJ5AiNIbVs)
 
-### [Clase III (actualmente modificada)](https://www.youtube.com/watch?v=3iedkJcI4qA)
+### [Clase III (actualmente modificada)](https://www.youtube.com/watch?v=X9_g_5E6pzI)
 
